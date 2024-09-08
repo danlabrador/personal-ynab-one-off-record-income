@@ -1,0 +1,3 @@
+[submodule "throttlers"]
+	path = throttlers
+	url = https://github.com/danlabrador/personal-request-throttlers.git
